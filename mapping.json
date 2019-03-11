@@ -1,0 +1,132 @@
+{
+	"COUNTRY":
+	{
+		"AT" : "Autriche",
+		"CA" : "Canada",
+		"FI" : "Finlande",
+		"FR" : "France",
+		"IL" : "Israel",
+		"IT" : "Italie",
+		"NL" : "Pays-Bas",
+		"ES" : "Espagne",
+		"UK" : "Royaume-Uni",
+		"US" : "Etats-Unis",
+		"BG" : "Bulgarie",
+		"HU" : "Hongrie"
+	},
+	"SEX":
+	{
+		"1" : "Homme",
+		"2" : "Femme"
+	},
+	"CITIZEN":
+	{
+		"00" : "Non",
+		"01" : "Oui",
+		"-7" : "Pas applicable",
+		"-8" : "N/A"		
+	},
+	"CIVSTAT":
+	{
+		"01" : "En couple",
+		"02" : "Célibataire",
+		"-8" : "N/A"
+	},
+	"HHLDSIZE":
+	{
+		"-08": "N/A"
+	},
+	"URBAN":
+	{
+		"01" : "Citadin",
+		"02" : "Rural",
+		"-7" : "Pas applicable",
+		"-8" : "N/A"
+	},
+	"EMPSTAT":
+	{
+		"01" : "Temps plein",
+		"02" : "Temps partiel",
+		"03" : "Heures d'emploi inconnues",
+		"04" : "Sans emploi rémunéré",
+		"-7" : "Pas demandé",
+		"-8" : "N/A"
+	},
+	"EMPSP":
+	{
+		"01" : "Temps plein",
+		"02" : "Temps partiel",
+		"03" : "Heures d'emploi inconnues",
+		"04" : "Sans emploi rémunéré",
+		"-7" : "Pas demandé",
+		"-8" : "N/A"
+	},
+	"SECTOR":
+	{
+		"01" : "Secteur public",
+		"02" : "Secteur privé",
+		"-7" : "Pas applicable",
+		"-8" : "N/A"
+	},
+	"UNEMP":
+	{
+		"00" : "Chômeur",
+		"01" : "Employé",
+		"-8" : "N/A"
+	},
+	"STUDENT":
+	{
+		"00" : "Non étudiant",
+		"01" : "Etudiant",
+		"-7" : "Pas applicable",
+		"-8" : "N/A"
+	},
+	"HEALTH":
+	{
+		"00" : "Faible",
+		"01" : "Moyenne",
+		"02" : "Bonne",
+		"03" : "Très bonne",
+		"-7" : "Pas applicable",
+		"-8" : "N/A",
+		"-9" : "N/A"
+	},
+	"DISAB":
+	{
+		"00" : "Non",
+		"01" : "Oui",
+		"-7" : "Pas applicable",
+		"-8" : "N/A",
+		"-9" : "N/A"
+	},
+	"INCOME":
+	{
+		"01" : "25% moins élevés",
+		"02" : "Moyenne 50%",
+		"03" : "25% plus élevés",
+		"-7" : "Pas applicable",
+		"-8" : "N/A",
+		"-9" : "N/A"
+	},
+	"INCORIG":
+	{
+		"-8" : "N/A",
+	},
+	"VEHICLE":
+	{
+		"00" : "Non",
+		"01" : "Animaux",
+		"02" : "Véhicules non-motorisés",
+		"03" : "1 voiture/motocycle",
+		"04" : "2+ voiture/motocycle",
+		"-8" : "N/A",
+		"-9" : "Pas applicable"
+	},
+	"COMPUTER":
+	{
+		"00" : "Non",
+		"01" : "Oui",
+		"-7" : "Pas applicable",
+		"-8" : "N/A",
+	}
+}
