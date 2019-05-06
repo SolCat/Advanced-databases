@@ -132,6 +132,7 @@ AND pe.idPersonne = t.idPersonne
 AND f.idFoyer = t.idFoyer
 GROUP BY ROLLUP a.nomActivite, f.aOrdinateur, f.aVehicule         
 
+          
 --  Requête 10 : Top des activités auxquelles un individu consacre le plus de temps, par région habitée (Europe, Amérique du Nord, Moyen-Orient), hors activités Travail, Repos, Pause Travail et Études
           
 SELECT a.nomActivite AS Activite, p.Region AS Region,
